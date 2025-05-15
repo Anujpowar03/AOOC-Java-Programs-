@@ -1,0 +1,42 @@
+Customer: ABC
+
+Apple x 3 KG = ₹150.00
+Banana x 2 Dozen = ₹20.00
+Mango x 5 KG = ₹300.00
+
+Subtotal: ₹470.00
+Discount (10%): ₹47.00
+Total: ₹423.00
+
+Customer: XYZ
+
+Banana x 5 Dozen = ₹50.00
+Grapes x 6 KG = ₹240.00
+Mango x 4 KG = ₹240.00
+Orange x 9 KG = ₹270.00
+
+Subtotal: ₹800.00
+Discount (10%): ₹80.00
+Total: ₹720.00
+
+Customer: ABCD
+
+Apple x 2 KG = ₹100.00
+Banana x 3 Dozen = ₹30.00
+Orange x 4 KG = ₹120.00
+Mango x 2 KG = ₹120.00
+Grapes x 5 KG = ₹200.00
+
+Subtotal: ₹570.00
+Discount (10%): ₹57.00
+Total: ₹513.00
+
+Customer: Abc
+
+Orange x 2 KG = ₹60.00
+Banana x 2 Dozen = ₹20.00
+
+Subtotal: ₹80.00
+Discount (10%): ₹8.00
+Total: ₹72.00
+
